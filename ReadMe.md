@@ -1,0 +1,1 @@
+Serialize and deserialize objects in java using Externalizable interface
